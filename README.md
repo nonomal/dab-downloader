@@ -3,7 +3,7 @@
 [![Go Version](https://img.shields.io/badge/go-%3E%3D1.19-blue.svg)](https://golang.org/dl/)
 [![License](https://img.shields.io/badge/license-Educational-green.svg)](#license)
 [![Release](https://img.shields.io/github/v/release/PrathxmOp/dab-downloader)](https://github.com/PrathxmOp/dab-downloader/releases/latest)
-[![Discord Support](https://img.shields.io/badge/Support-Discord-blue.svg?logo=discord&logoColor=white)](https://discord.gg/q9RnuVza2)
+[![Discord Support](https://img.shields.io/badge/Support-Discord-blue.svg?logo=discord&logoColor=white)](https://discord.gg/Mj6bSfD2VG)
 ![Development Status](https://img.shields.io/badge/status-unstable%20development-orange.svg)
 
 > A powerful, modular music downloader that delivers high-quality FLAC files with comprehensive metadata support through the DAB API.
